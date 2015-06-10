@@ -1,0 +1,255 @@
+Country,Sector,Region,SUBREGION,Spread5,Spread10,Year,Revenue,Bal,Blank,Gross Debt,Net Debt,Gross National Savings,Moody's,CODE,Inflation Annual CPI,Current Account Balance,rating_old,S&P ranking,S&P,Fiscal Balance,Primary Fiscal Balance,Gross National Savings
+Australia,Advanced Economies,OCEANIA,ANZ,33,,2015,34.9,-1.8,,38.1,19.9,AAA,1,AUS,108.2,-4,Aaa,1,AAA,-2.7,-1,23.1
+Austria,Advanced Economies,EUROPE,WESTERN EUROPE,25,,2015,50.2,-1.5,,88.8,51,AAA,1,AUT,121.9,1.9,Aaa,2,AA+,-0.9,0.6,25.2
+Belgium,Advanced Economies,EUROPE,WESTERN EUROPE,39,,2015,51,-2.2,,106.6,67.1,AA,2,BEL,120.3,2.3,AA,2,AA,-2.3,0.5,24.2
+Canada,Advanced Economies,NORTHERN AMERICA,Canada,,,2015,38.1,-2.1,,87,38.3,AAA,1,CAN,126.2,-2.6,Aaa,1,AAA,-1.5,-1.6,21.3
+Cyprus,Advanced Economies,NEAR EAST,South East,,,2015,39.3,-3.9,,105.7,0,B,6,CYP,118.5,-1.9,B,6,B+,0,-1,10.1
+Czech Republic,Advanced Economies,EUROPE,EASTERN EUROPE,,,2015,38.5,-1.4,,42,0,A,3,CZE,123.1,1.6,A,2,AA,-0.8,-0.2,27.4
+Denmark,Advanced Economies,EUROPE,WESTERN EUROPE,20,,2015,52.5,-3,,43.9,3.1,AAA,1,DNK,131.6,6.1,Aaa,1,AAA,-1.2,-2.5,25.8
+Estonia,Advanced Economies,EUROPE,EASTERN EUROPE,64,,2015,38.6,-0.3,,10.1,-2.3,A,3,EST,144.8,-0.4,A,2,AA-,0,-0.3,25.1
+Finland,Advanced Economies,EUROPE,WESTERN EUROPE,,,2015,55.6,-1.4,,61.7,-41.5,AAA,1,FIN,122.5,-0.3,Aaa,2,AA+,-0.6,-1.6,20.2
+France,Advanced Economies,EUROPE,WESTERN EUROPE,30,,2015,53.2,-4.3,,97,89.3,AA,2,FRA,115.7,-0.1,AA,2,ib,-2,-2.2,21.3
+Germany,Advanced Economies,EUROPE,WESTERN EUROPE,14,,2015,44.5,0.2,,69.5,46.9,AAA,1,DEU,116.5,8.4,Aaa,1,AAA,0.3,1.5,26.9
+Greece,Advanced Economies,EUROPE,WESTERN EUROPE,,,2015,43.4,-1.9,,172.7,169.9,CCC,7,GRC,119.6,1.4,CCC,6,B,2.1,3,12.7
+Hong Kong sar,Advanced Economies,ASIA,Greater China,,,2015,21.2,0.5,,6.4,0,0,,HKG,124,2,NA,0,0,1.5,0.3,25.8
+Iceland,Advanced Economies,EUROPE,WESTERN EUROPE,,,2015,43.9,-0.5,,73.8,52.5,BBB,4,ISL,238,6.1,BB,4,BBB-,-1.1,2.2,23.2
+Ireland,Advanced Economies,EUROPE,WESTERN EUROPE,51,,2015,33.7,-2.8,,107.7,85.5,BBB,4,IRL,109.8,4.9,NA,3,A-,-2,1.2,23.2
+Israel,Advanced Economies,NEAR EAST,South East,70,,2015,37.3,-2.9,,69,64.4,A,3,ISR,99.8,4.5,A,3,A+,-3.5,-0.6,22.7
+Italy,Advanced Economies,EUROPE,WESTERN EUROPE,112,158.7691,2015,48.3,-2.3,,133.8,111.8,BBB,4,ITA,119.3,2.6,BB,4,BBB,-0.3,2.9,17.6
+Japan,Advanced Economies,ASIA,ASIA,40,,2015,33.3,-5.8,,246.1,129.6,AA,2,JPN,103.8,1.9,A,2,AA-,-6,-5,23.1
+Korea,Advanced Economies,ASIA,ASIA,,,2015,21.4,0.8,,36.9,36.3,0,,KOR,110.7,7.1,AA,0,0,0.4,0.1,35.1
+Latvia,Advanced Economies,EUROPE,EASTERN EUROPE,75,,2015,35.1,-0.7,TRUE,37.7,34.8,BBB,4,LVA,148.8,-2.2,BB,3,A-,-1.2,0.5,21.5
+Luxembourg,Advanced Economies,EUROPE,WESTERN EUROPE,,,2015,44,-1.5,,26.3,0,AAA,1,LUX,124.2,4.7,Aaa,1,AAA,-0.4,-1.5,20.9
+Malta,Advanced Economies,EUROPE,WESTERN EUROPE,,,2015,42.1,-2.4,,67.5,0,A,3,MLT,122.3,3.1,A,4,BBB+,-2.3,0.7,22.2
+Netherlands,Advanced Economies,EUROPE,WESTERN EUROPE,17,,2015,42.9,-2,,67.5,35.3,AAA,1,NLD,116.4,10.4,Aaa,2,AA+,0.6,-1.1,29.4
+New zealand,Advanced Economies,OCEANIA,ANZ,,,2015,34.1,-0.4,,33.1,26.2,AAA,1,NZL,140.9,-4.8,Aaa,2,AA+,-0.1,-0.3,19
+Norway,Advanced Economies,EUROPE,WESTERN EUROPE,,,2015,52.7,9.9,,30.1,0,AAA,1,NOR,108.7,7.6,Aaa,1,AAA,-6.8,8.1,36.2
+Portugal,Advanced Economies,EUROPE,WESTERN EUROPE,163,,2015,44.7,-2.5,,126.3,119.2,BB,5,PRT,116.9,1.4,BB,5,BB,-1.8,1.8,15.9
+Singapore,Advanced Economies,ASIA,ASIA,,,2015,22.4,4.2,,97.8,0,AAA,1,SGP,100,20.7,Aaa,1,AAA,1.5,2.7,49.3
+Slovak republic,Advanced Economies,EUROPE,EASTERN EUROPE,,,2015,38.5,-2.3,TRUE,53.9,0,0,,SVK,122.8,0.4,NA,0,0,-1.9,-0.7,20.9
+Slovenia,Advanced Economies,EUROPE,EASTERN EUROPE,120,167.3541,2015,40.9,-3.9,,79.8,0,BB,5,SVN,122.2,7.1,BB,3,A-,-2.8,-0.1,26.8
+Spain,Advanced Economies,EUROPE,WESTERN EUROPE,85,127.6106,2015,38.1,-4.7,,99.4,67.4,BBB,4,ESP,119.9,0.3,NA,4,BBB,-2.3,-1.7,19.8
+Sweden,Advanced Economies,EUROPE,WESTERN EUROPE,,,2015,48.8,-0.8,,41.1,-19.3,AAA,1,SWE,100,6.3,Aaa,1,AAA,-1,-0.7,30.6
+Switzerland,Advanced Economies,EUROPE,WESTERN EUROPE,,,2015,31.3,0.7,,45.9,24.6,AAA,1,CHE,97.9,5.8,Aaa,1,AAA,0,1.4,
+United kingdom,Advanced Economies,UK,UK,20,,2015,35.6,-4.1,,91.1,82.6,AA,2,GBR,128.1,-4.8,AA,1,AAA,-4,-1.9,13.1
+United states,Advanced Economies,NORTHERN AMERICA,US,17,,2015,32,-4.3,,105.1,80.4,AAA,1,USA,237,-2.3,Aaa,2,AA+,-3.8,-2.2,18.1
+Algeria,Emerging Market,AFRICA,NORTHERN AFRICA,,,2015,30,-3.3,,13.6,-6,BB,5,DZA,171.4,-15.7,BB,5,BB-,0,-1.5,35.3
+Angola,Emerging Market,AFRICA,SUB-SAHARAN AFRICA,491,,2015,25.6,-1.3,TRUE,47.5,0,0,0,AGO,147.3,-6.3,NA,0,NR,0,-0.7,2.9
+Azerbaijan,Emerging Market,CW of independent states,RCIS,247,211,2015,29.5,0.1,TRUE,21.6,0,BB,5,AZE,286.6,5.3,BB,5,BB,0,0.9,28.2
+Belarus,Emerging Market,CW of independent states,RCIS,908,,2015,41.4,-3,TRUE,39.6,0,0,0,BLR,674.6,-7,B,6,B,0,-2.4,27.4
+Brazil,Emerging Market,LATIN AMERICA & CARIB,BRAZIL,234,294.1877,2015,34.5,-2.3,TRUE,66.2,34.4,B,6,BRA,0,-3.7,B,0,NR,-4.8,-2,15.3
+Chile,Emerging Market,LATIN AMERICA & CARIB,Southern Cone,81,111.3961,2015,23.4,-5.3,TRUE,16.3,-2.7,0,0,CHL,107.5,-1.2,B,6,B,-2.2,-4.8,19.6
+China,Emerging Market,ASIA,Greater China,88,104,2015,28.9,-1.4,#N/A,43.5,0,0,0,CHN,114.6,3.2,NA,0,0,-1.6,-0.9,48.5
+Colombia,Emerging Market,LATIN AMERICA & CARIB,CANSAC,150,204.4489,2015,26.3,-3.1,TRUE,40.6,30.2,0,0,COL,120.7,-5.8,B,0,0,-2.9,-2,16.4
+Croatia,Emerging Market,EUROPE,EASTERN EUROPE,268,277,2015,42.6,-3,TRUE,85.1,0,0,0,HRV,106.9,2.2,B,0,0,-3.2,-2.5,19.6
+Dominican republic,Emerging Market,LATIN AMERICA & CARIB,CANSAC,310,310,2015,14.8,-6.5,TRUE,30.7,0,B,6,DOM,120.1,-2.4,B,6,B-,-2.7,0.1,17.9
+Ecuador,Emerging Market,LATIN AMERICA & CARIB,CANSAC,754,670,2015,33.9,-2.7,TRUE,34.3,0,0,0,ECU,102.4,-3.3,NA,0,0,-3.9,-1.6,23.7
+Egypt,Emerging Market,AFRICA,NORTHERN AFRICA,273,,2015,23.4,-4.7,TRUE,90.5,83,0,0,EGY,326.7,-3.3,NA,0,0,-11.5,-4.2,11.3
+Hungary,Emerging Market,EUROPE,EASTERN EUROPE,141,,2015,46.2,-5.2,TRUE,75.5,70.5,B,6,HUN,111.5,4.8,B,6,B,-2.3,-3.9,26.6
+India,Emerging Market,ASIA,India & SAARC,141,160,2015,19.5,-5.8,TRUE,64.4,0,B,6,IND,262,-1.3,B,6,B+,-7.1,-3.6,30.8
+Indonesia,Emerging Market,ASIA,ASIA,168,201,2015,15.2,-3.2,TRUE,25.9,0,0,0,IDN,120.9,-3,NA,0,0,-2.3,-2.3,30.8
+Kazakhstan,Emerging Market,CW of independent states,RCIS,271,215,2015,20.8,-3.7,TRUE,17.2,-18.1,0,0,KAZ,307.6,-4.1,NA,0,0,0,-2.6,26.5
+Kuwait,Emerging Market,NEAR EAST,Middle East,,,2015,62,-2.3,,9.5,0,0,0,KWT,171.4,15.7,NA,0,0,0,-1.5,38.3
+Libya,Emerging Market,AFRICA,NORTHERN AFRICA,,,2015,27.5,-3.4,,43.9,-49.9,0,0,LBY,171.9,-52.8,NA,0,NR,0,-2.8,-14.2
+Malaysia,Emerging Market,ASIA,ASIA,115,120,2015,22.9,-5.4,#N/A,56.7,0,B,6,MYS,113.5,2.1,B,0,0,-4,-4.8,30
+Mexico,Emerging Market,LATIN AMERICA & CARIB,MEXICO,121,173.7481,2015,22,-7.4,TRUE,51.4,45,0,0,MEX,117.2,-2.2,B,0,0,-3.6,-2.8,19.2
+Morocco,Emerging Market,AFRICA,NORTHERN AFRICA,163,163,2015,27,-7.4,TRUE,65.5,65,B,6,MAR,114.8,-3.4,B,6,B,-5.7,-6.2,30.1
+Oman,Emerging Market,NEAR EAST,Middle East,,,2015,41.2,-4.6,,8.6,0,0,0,OMN,154.9,-15,NA,0,0,0,-3,14.5
+Pakistan,Emerging Market,ASIA,ASIA,445,485,2015,14.8,0.9,TRUE,64.1,60.8,0,0,PAK,198.5,-1.3,NA,0,0,0,1.9,13.8
+Peru,Emerging Market,LATIN AMERICA & CARIB,CANSAC,133,185.3436,2015,21,-0.9,TRUE,21.5,4.9,B,6,PER,118.4,-4.6,B,0,0,-1,-0.8,22
+Philippines,Emerging Market,ASIA,ASIA,87,100,2015,18.7,-5.5,TRUE,35.5,0,0,0,PHL,142.4,5.5,NA,0,0,-1.5,-4.9,25.5
+Poland,Emerging Market,EUROPE,EASTERN EUROPE,64,99,2015,39.1,-2.2,TRUE,49.4,23.8,BB,5,POL,167.7,-1.8,BB,5,BB-,-2.8,-1.2,18.9
+Qatar,Emerging Market,NEAR EAST,Middle East,61,,2015,40.1,-2.5,,28.9,18.1,B,6,QAT,257,8.4,B,6,B+,0,-0.5,53.3
+Romania,Emerging Market,EUROPE,EASTERN EUROPE,114,149,2015,32,-1.4,TRUE,40.5,0,0,0,ROU,116.1,-1.1,B,6,B,-1.1,-0.7,22.6
+Russia,Emerging Market,CW of independent states,RCIS,332,303.4787,2015,34.8,-4,TRUE,18.8,0,B,6,RUS,1440.4,5.4,B,6,B+,-2.5,-2.4,23
+Saudi arabia,Emerging Market,NEAR EAST,Saudi Arabia,,,2015,35.9,-1.2,,1.8,-87.5,0,0,SAU,132.7,-1,NA,0,0,0,0,28.3
+South africa,Emerging Market,AFRICA,SUB-SAHARAN AFRICA,206,215,2015,28.3,-1.3,TRUE,47.5,42.5,0,0,ZAF,115.2,-4.6,NA,0,0,-3.7,-0.7,16.2
+Sri lanka,Emerging Market,ASIA,India & SAARC,393,395,2015,13.3,-4.4,TRUE,77,0,0,0,LKA,182.9,-2,NA,0,0,0,-2.8,25.9
+Thailand,Emerging Market,ASIA,ASIA,103,,2015,22.7,-3,,47.5,0,B,6,THA,107.5,4.4,B,6,B,-1.4,-1.2,31.5
+Turkey,Emerging Market,EUROPE,EASTERN EUROPE,214,262.3749,2015,36.1,0.5,TRUE,33.4,25.9,0,0,TUR,258,-4.2,NA,0,0,-2.6,0.5,12.5
+Ukraine,Emerging Market,CW of independent states,RCIS,3855,1724.645,2015,42.8,-6.1,,94.1,91.5,B,6,UKR,0,-1.4,B,5,BB-,-3.2,-4.6,10
+United arab emirates,Emerging Market,NEAR EAST,Middle East,,,2015,30.7,-5,,14.7,0,0,0,ARE,260.6,5.3,NA,0,0,0,0,28.2
+Uruguay,Emerging Market,LATIN AMERICA & CARIB,Southern Cone,144,144,2015,30.1,-4.1,TRUE,64.4,23.8,B,6,URY,145,-3.8,B,6,B+,-3.4,-1.8,17.3
+Venezuela,Emerging Market,LATIN AMERICA & CARIB,CANSAC,4116,3580.845,2015,22.6,0.6,TRUE,39.6,0,0,0,VEN,1296.3,-4.7,NA,0,0,0,1.8,15.3
+Bangladesh,Developing Countries,ASIA,India & SAARC,,,2015,10.9,-4.6,,33,0,0,0,BGD,211,-0.6,NA,0,0,0,-5.3,29.4
+Benin,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,21.3,-4.1,,32.3,0,BB,5,BEN,113.3,-11.6,BB,5,BB-,0,-2.6,10.9
+Bolivia,Developing Countries,LATIN AMERICA & CARIB,CANSAC,278,,2015,34.9,-1.8,TRUE,36.3,18.3,BBB,4,BOL,160,-2.8,BB,4,BBB-,0,-1.6,18.1
+Burkina faso,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,22.1,-3.6,,30.6,0,B,6,BFA,108,-8.1,B,6,B-,0,-2.2,5
+Cambodia,Developing Countries,ASIA,ASIA,,,2015,18.1,-3.1,,29.8,0,BBB,4,KHM,157.8,-10,BB,4,BBB+,0,2,12.5
+Cameroon,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,16.4,-1.2,,30.1,0,AA,2,CMR,241,-4.9,AA,2,AA+,0,-1,17.3
+Chad,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,14.2,-0.8,,23.7,0,AA,2,TCD,134.8,-10.5,AA,2,AA-,0,-0.3,-40
+Côte d'ivoire,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,19.6,-1.3,,34.7,0,BBB,4,CIV,147.4,-2.3,BB,4,BBB+,0,0.9,15.4
+Ethiopia,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,434,434,2015,16.2,-2.9,TRUE,21.7,19.8,BB,5,ETH,585.2,-6.6,BB,5,BB,0,0.7,28
+Ghana,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,663,663,2015,19.2,-3.2,TRUE,69.6,67.5,B,6,GHA,144.6,-7,B,6,B+,0,-0.6,16.6
+Guinea,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,23.4,-4.6,,35.4,35.4,0,,GIN,1323.4,-16.7,B,6,B+,0,-3.2,-6.5
+Haiti,Developing Countries,LATIN AMERICA & CARIB,CANSAC,,,2015,20.9,-11.5,,27.6,0,CCC,7,HTI,207.6,-3,CCC,6,B-,0,-3.5,25.5
+Honduras,Developing Countries,LATIN AMERICA & CARIB,CANSAC,400,394,2015,25.4,-2.8,TRUE,48.3,0,BB,5,HND,287.2,-6.5,BB,5,BB,0,0.9,15.2
+Kenya,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,354,405,2015,21.3,-6.7,TRUE,50.1,47.4,BBB,4,KEN,291,-7.7,BB,4,BBB-,0,-2.3,16.5
+Kyrgyz republic,Developing Countries,CW of independent states,RCIS,,,2015,34.7,-2.3,,58.8,0,BBB,4,KGZ,310,-17,BB,5,BB+,0,-0.9,11
+Lao p.d.r.,Developing Countries,ASIA,ASIA,,,2015,22.6,3.2,,63,0,BBB,4,LAO,246.3,-20.1,BB,4,BBB+,0,3,
+Madagascar,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,12.6,26.3,,35.1,0,AA,2,MDG,370.7,-3.2,AA,2,AA,0,13.5,13.2
+Mali,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,21.9,-30.2,,37.6,30.3,0,0,MLI,147.5,-5.6,NA,0,NR,0,-30.2,25
+Moldova,Developing Countries,CW of independent states,RCIS,,,2015,38.1,-2.7,,48,48,A,3,MDA,0,-4.5,A,3,A,0,-0.7,19.7
+Mongolia,Developing Countries,ASIA,Greater China,456,456,2015,25.4,-4,TRUE,0,0,A,3,MNG,161.3,-11.1,A,3,A,0,-1.4,21.5
+Mozambique,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,652,,2015,29.2,-4.3,TRUE,61.3,0,BB,5,MOZ,204.8,0,BB,4,BBB-,0,-1.6,10.4
+Myanmar,Developing Countries,ASIA,ASIA,,,2015,24.3,0.2,,41.3,0,A,3,MMR,0,-7,A,3,A,0,-1.4,20.2
+Nepal,Developing Countries,ASIA,India & SAARC,,,2015,21.3,-4.4,,23.6,0,CCC,7,NPL,212.3,4.1,CCC,6,B-,0,0.3,31.7
+Nicaragua,Developing Countries,LATIN AMERICA & CARIB,CANSAC,,,2015,23.6,-0.1,,31.6,0,A,3,NIC,193,-6.8,A,3,A-,0,0.7,18.5
+Niger,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,25.5,-1,,46.8,4.6,BBB,4,NER,136.7,-27.1,BB,4,BBB,0,1.3,20.7
+Nigeria,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,382,382,2015,8.6,-2.5,TRUE,11.5,11.5,0,,NGA,174,0.7,A,3,A,0,-0.3,16.3
+Papua new guinea,Developing Countries,OCEANIA,ANZ,,,2015,25.2,9,,32.2,0,AA,2,PNG,586.3,10.2,AA,2,AA,0,9.7,17.3
+Rwanda,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,23.3,-1.8,,29.1,0,BBB,4,RWA,231.2,-10.5,BB,4,BBB-,0,-0.1,14.4
+Senegal,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,432,431,2015,23.9,-1.1,TRUE,52,0,BBB,4,SEN,105.5,-7.6,BB,4,BBB,0,-0.5,18.7
+Sudan,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,10.8,1.6,,78.5,0,AA,2,SDN,511.7,-4.2,AA,2,AA-,0,1.2,13.6
+Tajikistan,Developing Countries,CW of independent states,RCIS,,,2015,26.2,-5.1,,29.7,0,BBB,4,TJK,1281.1,-7.1,BB,4,BBB+,0,-1.6,6.1
+Tanzania,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,16.2,-4.7,,34.7,0,0,0,TZA,296.1,-10,B,6,B+,0,-0.3,22.9
+Uganda,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,14.4,-2.6,,35.3,0,BBB,4,UGA,226,-8.8,BB,3,A-,0,-1.8,26.6
+Uzbekistan,Developing Countries,CW of independent states,RCIS,,,2015,34.9,-1.9,,8.3,0,BBB,4,UZB,0,0.2,BB,4,BBB,0,0.4,31.1
+Vietnam,Developing Countries,ASIA,ASIA,233,232,2015,20.7,-3.9,TRUE,62.2,62.2,CCC,7,VNM,246.1,4.8,CCC,6,B-,0,0.6,32
+Yemen,Developing Countries,NEAR EAST,Middle East,,,2015,18.1,10.3,,53.7,52.8,AA,2,YEM,481.1,-2.2,AA,0,0,0,8.3,5.4
+Zambia,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,521,,2015,18,-3.4,#N/A,32.4,31.9,BBB,4,ZMB,152.6,0.3,BB,4,BBB-,0,0,31.2
+Zimbabwe,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2015,27.9,-14.9,,55.2,0,CCC,7,ZWE,60.5,-21.6,CCC,7,CCC+,0,-11.8,-6.9
+Australia,Advanced Economies,OCEANIA,ANZ,33,,2020,36.2,0.2,,40.7,22.4,AAA,1,AUS,122.1,-3.4,Aaa,1,AAA,-0.8,1,24.8
+Austria,Advanced Economies,EUROPE,WESTERN EUROPE,25,,2020,49.7,-0.5,,83.5,47.1,AAA,1,AUT,132.3,1.7,Aaa,2,AA+,-1.3,1.7,25.1
+Belgium,Advanced Economies,EUROPE,WESTERN EUROPE,39,,2020,50.9,0.1,,97.4,62.9,AA,2,BEL,128.6,2.2,AA,2,AA,-0.1,2.8,25.5
+Canada,Advanced Economies,NORTHERN AMERICA,Canada,,,2020,38.6,-0.8,,78.7,34.3,AAA,1,CAN,139.9,-1.8,Aaa,1,AAA,-0.2,-0.5,22.1
+Cyprus,Advanced Economies,NEAR EAST,South East,,,2020,39.2,0.2,,91.4,0,B,6,CYP,127.5,-1.1,B,6,B+,0,4,12.4
+Czech republic,Advanced Economies,EUROPE,EASTERN EUROPE,,,2020,37.4,-1,,39.8,0,A,3,CZE,135,-0.7,A,2,AA,-1,0.1,26.9
+Denmark,Advanced Economies,EUROPE,WESTERN EUROPE,20,,2020,50.9,-0.8,,41.5,8.6,AAA,1,DNK,144.8,4.4,Aaa,1,AAA,-0.1,-0.4,27.3
+Estonia,Advanced Economies,EUROPE,EASTERN EUROPE,64,,2020,39.1,0.6,,9,-0.3,A,3,EST,160.3,-0.8,A,2,AA-,0,0.6,26.2
+Finland,Advanced Economies,EUROPE,WESTERN EUROPE,,,2020,56.4,0.1,,61.9,-30.4,AAA,1,FIN,134.3,0,Aaa,2,AA+,-0.5,-0.4,21.3
+France,Advanced Economies,EUROPE,WESTERN EUROPE,30,,2020,52.8,-1,,92.1,84.4,AA,2,FRA,123.2,-0.3,AA,2,AA,0,1,22.1
+Germany,Advanced Economies,EUROPE,WESTERN EUROPE,14,,2020,44.4,0.4,,56.9,37.1,AAA,1,DEU,126.3,6.7,Aaa,1,AAA,0.3,1.7,26
+Greece,Advanced Economies,EUROPE,WESTERN EUROPE,,,2020,40.3,-0.6,,124.2,122,CCC,7,GRC,126.7,0.9,CCC,6,B,1,4.2,15.7
+Hong kong sar,Advanced Economies,ASIA,Greater China,,,2020,19.4,2.3,,5.5,0,0,,HKG,147.2,3.1,NA,0,0,1.6,2.2,26.1
+Iceland,Advanced Economies,EUROPE,WESTERN EUROPE,,,2020,41.5,-0.3,,54,37.4,BBB,4,ISL,268.1,2.4,BB,4,BBB-,0.9,2.2,22.9
+Ireland,Advanced Economies,EUROPE,WESTERN EUROPE,51,,2020,30.9,0.7,,89.7,71.7,0,,IRL,119.6,4.8,,3,A-,0,4.4,26.1
+Israel,Advanced Economies,NEAR EAST,South East,70,,2020,39.1,-1.8,,64.8,61.2,A,3,ISR,110.3,3.8,A,3,A+,-1.5,0,22.1
+Italy,Advanced Economies,EUROPE,WESTERN EUROPE,112,158.7691,2020,48.8,-0.4,,122.4,102.3,BB,5,ITA,126,0.6,BB,4,BBB,0.9,5,16.9
+Japan,Advanced Economies,ASIA,ASIA,40,,2020,35.4,-4.7,,251.6,138.7,A,3,JPN,110.8,2.3,A,2,AA-,-4.4,-2.9,22.8
+Korea,Advanced Economies,ASIA,ASIA,,,2020,21.6,1.7,,37.8,37.4,AA,2,KOR,127.7,3.6,AA,0,0,1.7,1.4,32.8
+Latvia,Advanced Economies,EUROPE,EASTERN EUROPE,75,,2020,32.7,-0.6,TRUE,31.9,29.5,BB,5,LVA,164.6,-2.4,BB,3,A-,-0.5,0.7,22.7
+Luxembourg,Advanced Economies,EUROPE,WESTERN EUROPE,,,2020,44.4,-2,,30.5,0,AAA,1,LUX,136.2,4.2,Aaa,1,AAA,0.5,-1.8,21
+Malta,Advanced Economies,EUROPE,WESTERN EUROPE,,,2020,41.7,-1.8,,59.8,0,A,3,MLT,132.5,3.4,A,4,BBB+,-0.9,1.3,23.5
+Netherlands,Advanced Economies,EUROPE,WESTERN EUROPE,17,,2020,43,-0.8,,59.2,32.1,AAA,1,NLD,124.1,9.1,Aaa,2,AA+,0.6,0.1,29.8
+New zealand,Advanced Economies,OCEANIA,ANZ,,,2020,33.3,1.1,,24.4,18.6,AAA,1,NZL,155.8,-4.6,Aaa,2,AA+,1.5,1.1,19.8
+Norway,Advanced Economies,EUROPE,WESTERN EUROPE,,,2020,52.5,6.9,,30.1,0,AAA,1,NOR,122.4,4.8,Aaa,1,AAA,-7.2,5.2,34.8
+Portugal,Advanced Economies,EUROPE,WESTERN EUROPE,163,,2020,44.5,-1.7,,120.9,116.4,BB,5,PRT,126.4,0.1,BB,5,BB,-2.5,3,16.3
+Singapore,Advanced Economies,ASIA,ASIA,,,2020,23.5,3.4,,92,0,AAA,1,SGP,109.4,14.5,Aaa,1,AAA,2.4,2,44.9
+Slovak republic,Advanced Economies,EUROPE,EASTERN EUROPE,,,2020,37.8,-0.7,TRUE,50.6,0,0,,SVK,134.2,2.2,NA,0,0,-1.4,0.9,21.6
+Slovenia,Advanced Economies,EUROPE,EASTERN EUROPE,120,167.3541,2020,41,-3,,88.4,0,BB,5,SVN,131,4.5,BB,3,A-,-3.8,1.1,26.6
+Spain,Advanced Economies,EUROPE,WESTERN EUROPE,85,127.6106,2020,38.2,-1.8,,96.4,68.4,0,,ESP,126.6,1.1,NA,4,BBB,-1.5,1.8,20.8
+Sweden,Advanced Economies,EUROPE,WESTERN EUROPE,,,2020,49.2,1.5,,32.3,-15.1,AAA,1,SWE,110.1,5.6,Aaa,1,AAA,0.2,1.4,32.4
+Switzerland,Advanced Economies,EUROPE,WESTERN EUROPE,,,2020,31.3,0.9,,41.6,20.3,AAA,1,CHE,100.6,5.3,Aaa,1,AAA,0,1.5,
+United kingdom,Advanced Economies,UK,UK,20,,2020,36.1,-0.2,,83.2,74.7,AA,2,GBR,141,-3.3,AA,1,AAA,-0.5,2.9,16.7
+United states,Advanced Economies,NORTHERN AMERICA,US,17,,2020,31.5,-4,,104.3,82.1,AAA,1,USA,264.3,-2.6,Aaa,2,AA+,-3.9,-1.2,19.6
+Bangladesh,Developing Countries,ASIA,India & SAARC,,,2020,13.8,-2.6,,26.8,0,BB,5,BGD,286,-1.2,BB,5,BB-,0,-1,26.4
+Benin,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,21.9,-0.8,,35.4,0,0,0,BEN,127.6,-8.7,NA,0,NR,0,-0.2,13.7
+Bolivia,Developing Countries,LATIN AMERICA & CARIB,CANSAC,278,,2020,33.3,-1,TRUE,43.8,43.8,BB,5,BOL,204.3,-1,BB,5,BB,0,-0.4,16.8
+Burkina faso,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,22.6,-3.9,,35.7,0,B,6,BFA,119,-6.8,B,6,B,0,-3.2,11.1
+Cambodia,Developing Countries,ASIA,ASIA,,,2020,20.4,-1,,28.1,0,B,6,KHM,182.2,-5.3,B,0,NR,0,-0.9,17.7
+Cameroon,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,16.9,-4.5,,40.7,0,B,6,CMR,268.5,-4.7,B,6,B,0,-3.8,14.6
+Chad,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,25.1,0.9,,15.7,0,0,0,TCD,156.1,-3.5,NA,0,0,0,1.1,-1.8
+Côte d'ivoire,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,21.8,-3,,27.7,0,B,6,CIV,161.7,-4.6,B,0,0,0,-1.9,14.7
+Ethiopia,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,434,434,2020,16.5,-2.5,TRUE,24.3,23.5,B,6,ETH,877.6,-6.1,B,0,0,0,-1.8,23.8
+Ghana,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,663,663,2020,20.1,-2.5,TRUE,53.8,50.5,B,6,GHA,215,-4.3,B,6,B-,0,5.8,25.2
+Guinea,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,21.7,-1.8,,14.6,14.6,0,0,GIN,1992.1,-37.7,NA,0,0,0,-1,18.4
+Haiti,Developing Countries,LATIN AMERICA & CARIB,CANSAC,,,2020,20.9,-1.7,,31.4,0,0,0,HTI,265.7,-3.5,NA,0,0,0,-1,25.6
+Honduras,Developing Countries,LATIN AMERICA & CARIB,CANSAC,400,394,2020,26.5,-4.4,TRUE,47.8,0,B,6,HND,371.7,-5,B,6,B,0,-2.5,17.6
+Kenya,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,354,405,2020,23.1,-3.9,TRUE,47.3,45.3,B,6,KEN,371.9,-7,B,6,B+,0,-1.7,16.4
+Kyrgyz republic,Developing Countries,CW of independent states,RCIS,,,2020,33.7,-2.1,,53.5,0,0,0,KGZ,412.7,-8.8,NA,0,0,0,-1.3,18.9
+Lao p.d.r.,Developing Countries,ASIA,ASIA,,,2020,22,-4.2,,70.8,0,0,0,LAO,320.5,-14.9,NA,0,0,0,-3.1,
+Madagascar,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,14.5,-3.3,,36.1,0,0,0,MDG,492.8,-3.9,NA,0,0,0,-2.4,14.3
+Mali,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,23.7,-2.8,,37.4,32.4,0,0,MLI,166.5,-6.4,NA,0,NR,0,-2.3,28
+Moldova,Developing Countries,CW of independent states,RCIS,,,2020,34.8,-5.2,,58.4,58.4,B,6,MDA,0,-4.2,B,0,0,0,-4,19.9
+Mongolia,Developing Countries,ASIA,Greater China,456,456,2020,25.7,-9.4,TRUE,0,0,B,6,MNG,226.1,-5.7,B,0,0,0,-1.7,27.2
+Mozambique,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,652,,2020,27.7,-5.1,TRUE,51.1,0,B,6,MOZ,268.9,0,B,6,B,0,-3.4,11
+Myanmar,Developing Countries,ASIA,ASIA,,,2020,25.4,-4.4,,49.6,0,0,0,MMR,2777.3,-4.9,NA,0,0,0,-2.7,29.2
+Nepal,Developing Countries,ASIA,India & SAARC,,,2020,22.4,-0.4,,21.9,0,0,0,NPL,284,-1.9,NA,0,0,0,0.1,26.3
+Nicaragua,Developing Countries,LATIN AMERICA & CARIB,CANSAC,,,2020,24.4,-0.5,,28.5,0,B,6,NIC,270.6,-6.7,B,0,0,0,-0.6,18.3
+Niger,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,28.8,-2.7,,41,3.5,0,0,NER,149.3,-10.6,NA,0,0,0,-2.2,15.2
+Nigeria,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,382,382,2020,9.1,-3.2,TRUE,11,10,BB,5,NGA,259.2,0.6,BB,5,BB-,0,-2.1,17.5
+Papua new guinea,Developing Countries,OCEANIA,ANZ,,,2020,22.6,-1.3,,33.7,0,B,6,PNG,748.3,4.3,B,6,B+,0,1.3,11.2
+Rwanda,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,22.6,-1.7,,36.5,0,B,6,RWA,293.2,-9.9,B,6,B,0,-1,14.6
+Senegal,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,432,431,2020,24.1,-3,TRUE,49,0,B,6,SEN,113,-6.4,B,6,B+,0,-1.3,20.6
+Sudan,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,11.5,0.1,,63.5,0,0,0,SDN,716,-3.2,NA,0,0,0,1,15.3
+Tajikistan,Developing Countries,CW of independent states,RCIS,,,2020,26.8,-2.9,,32.4,0,0,0,TJK,1726.8,-3.4,NA,0,0,0,-2.4,18.8
+Tanzania,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,17.1,-4,,35,0,0,0,TZA,369.1,-8.3,NA,0,0,0,-2.6,23
+Uganda,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,16.2,-1.9,,51.1,0,B,6,UGA,287.5,-8.9,B,6,B,0,0.2,26.4
+Uzbekistan,Developing Countries,CW of independent states,RCIS,,,2020,34.3,0.4,,8.9,0,0,0,UZB,5642,0.2,NA,0,0,0,0.4,31
+Vietnam,Developing Countries,ASIA,ASIA,233,232,2020,21.5,-4.1,TRUE,63.2,63.2,B,6,VNM,293.3,0.3,B,5,BB-,0,-2.4,30.7
+Yemen,Developing Countries,NEAR EAST,Middle East,,,2020,20.9,-3.9,,51.3,50.8,0,0,YEM,657.1,-1.2,NA,0,0,0,0.4,10.5
+Zambia,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,521,,2020,19.9,-3.1,#N/A,34.3,34.1,B,6,ZMB,198.5,0.4,B,6,B+,0,-1,32.3
+Zimbabwe,Developing Countries,AFRICA,SUB-SAHARAN AFRICA,,,2020,27.8,1.2,,53.8,0,0,0,ZWE,64.1,-23.5,NA,0,0,0,2.3,-5.6
+Algeria,Emerging Market,AFRICA,NORTHERN AFRICA,,,2020,32.5,-2.5,,18.1,15.3,0,0,DZA,208.5,-7,NA,0,0,0,-3.1,44.5
+Angola,Emerging Market,AFRICA,SUB-SAHARAN AFRICA,491,,2020,27.3,-3.6,TRUE,38.9,0,BB,5,AGO,209.8,-2.5,BB,5,BB-,0,-1.2,9.6
+Azerbaijan,Emerging Market,CW of independent states,RCIS,247,211,2020,35.3,-4.8,TRUE,27.3,0,BB,5,AZE,356,11.1,BB,4,BBB-,0,-4.2,31.5
+Belarus,Emerging Market,CW of independent states,RCIS,908,,2020,41.5,-6,TRUE,49.8,0,B,6,BLR,1461.3,-4,B,6,B-,0,-3,28.1
+Brazil,Emerging Market,LATIN AMERICA & CARIB,BRAZIL,234,294.1877,2020,35,-2.7,TRUE,64.2,33.4,BB,5,BRA,0,-3.2,BB,4,BBB+,-2.7,2.5,17.3
+Chile,Emerging Market,LATIN AMERICA & CARIB,Southern Cone,81,111.3961,2020,25.9,-0.4,TRUE,20.3,2.6,AA,2,CHL,124.7,-2.4,AA,2,AA+,-0.7,-0.1,19.4
+China,Emerging Market,ASIA,Greater China,88,104,2020,27.2,-0.5,#N/A,49.8,0,AA,2,CHN,129,3,AA,2,AA-,-1.3,-0.1,45.8
+Colombia,Emerging Market,LATIN AMERICA & CARIB,CANSAC,150,204.4489,2020,25.7,-0.9,TRUE,37.6,30.4,BB,5,COL,141.3,-3.6,BB,4,BBB+,-1.7,1.2,17.9
+Croatia,Emerging Market,EUROPE,EASTERN EUROPE,268,277,2020,43.4,-2.7,TRUE,86,0,BB,5,HRV,116.5,-0.9,BB,5,BB,-2.9,1.2,18.2
+Dominican republic,Emerging Market,LATIN AMERICA & CARIB,CANSAC,310,310,2020,14.7,-2.9,TRUE,38,0,B,6,DOM,145.4,-4.2,B,6,B+,-2.9,0.2,15.6
+Ecuador,Emerging Market,LATIN AMERICA & CARIB,CANSAC,754,670,2020,32.9,-1.3,TRUE,35,0,B,6,ECU,118.7,-3,B,6,B+,0.5,0.6,23
+Egypt,Emerging Market,AFRICA,NORTHERN AFRICA,273,,2020,22.7,-11.3,TRUE,81.7,77.7,CCC,7,EGY,493.7,-4.8,CCC,6,B-,-7.9,-2,10.7
+Hungary,Emerging Market,EUROPE,EASTERN EUROPE,141,,2020,46.6,-2.6,TRUE,71.8,68.8,BB,5,HUN,128.2,1.2,BB,5,BB,-2.3,1.2,24.9
+India,Emerging Market,ASIA,India & SAARC,141,160,2020,20.1,-6.1,TRUE,59.2,0,BB,5,IND,339.6,-2.5,BB,4,BBB-,-6.4,-2.1,30.2
+Indonesia,Emerging Market,ASIA,ASIA,168,201,2020,16.3,-1.3,TRUE,24.2,0,BB,5,IDN,154.2,-2.6,BB,5,BB+,-1.6,0.2,33.7
+Kazakhstan,Emerging Market,CW of independent states,RCIS,271,215,2020,22.2,2.8,TRUE,29.9,-13.8,BB,5,KAZ,403.9,-0.4,BB,4,BBB+,0,2.6,28.3
+Kuwait,Emerging Market,NEAR EAST,Middle East,,,2020,63.3,19.3,,7.4,0,AA,2,KWT,207.7,14.7,AA,2,AA,0,0.8,38.5
+Libya,Emerging Market,AFRICA,NORTHERN AFRICA,,,2020,57.8,-9.5,,79.6,46,0,0,LBY,203.5,-1.5,NA,0,NR,0,-9.5,32.1
+Malaysia,Emerging Market,ASIA,ASIA,115,120,2020,23.7,-3.1,#N/A,48.4,0,A,3,MYS,131.5,1.4,A,3,A,-2.2,-1,30.8
+Mexico,Emerging Market,LATIN AMERICA & CARIB,MEXICO,121,173.7481,2020,22.2,-2.5,TRUE,49.4,43.1,A,3,MEX,135.9,-2.3,A,3,A,-2.5,0.9,21.5
+Morocco,Emerging Market,AFRICA,NORTHERN AFRICA,163,163,2020,27.9,-2.5,TRUE,58.7,58.2,BB,5,MAR,126.7,-2.9,BB,4,BBB-,-2.8,0.1,32.9
+Oman,Emerging Market,NEAR EAST,Middle East,,,2020,38.1,-8.6,,24.3,0,A,3,OMN,177.3,-9.3,A,3,A,0,-11.2,22.5
+Pakistan,Emerging Market,ASIA,ASIA,445,485,2020,15.9,-3.4,TRUE,58.8,55.6,CCC,7,PAK,252.2,-2.5,CCC,6,B-,0,0.1,17.4
+Peru,Emerging Market,LATIN AMERICA & CARIB,CANSAC,133,185.3436,2020,20.9,-0.1,TRUE,22.1,8.1,A,3,PER,130.7,-3,A,3,A-,-0.8,0.7,22.3
+Philippines,Emerging Market,ASIA,ASIA,87,100,2020,19,-1.2,TRUE,27.4,0,BB,5,PHL,169.4,3,BB,4,BBB,-1.7,0.6,26.1
+Poland,Emerging Market,EUROPE,EASTERN EUROPE,64,99,2020,39.3,-1.9,TRUE,45.8,25.1,A,3,POL,185.4,-3.5,A,3,A,-1.9,0.2,19
+Qatar,Emerging Market,NEAR EAST,Middle East,61,,2020,29.6,2.9,,12.7,4.8,AA,2,QAT,292.6,3.8,AA,2,AA,0,3.3,47
+Romania,Emerging Market,EUROPE,EASTERN EUROPE,114,149,2020,30.9,-1.1,TRUE,36.6,0,BB,5,ROU,131.3,-3.6,BB,4,BBB-,-1.1,0.5,20.7
+Russia,Emerging Market,CW of independent states,RCIS,332,303.4787,2020,33.8,-1,TRUE,18.2,0,BB,5,RUS,0,4.3,BB,4,BBB,-0.5,-0.3,24.3
+Saudi arabia,Emerging Market,NEAR EAST,Saudi Arabia,,,2020,33.8,-3.6,,9.2,-34.2,AA,2,SAU,152.2,5.4,AA,2,AA-,0,-4.2,32.3
+South africa,Emerging Market,AFRICA,SUB-SAHARAN AFRICA,206,215,2020,29.3,-4.9,TRUE,50.6,47.1,BB,5,ZAF,150.7,-4.2,BB,4,BBB+,-2.6,-0.5,17.2
+Sri lanka,Emerging Market,ASIA,India & SAARC,393,395,2020,13.7,-3.8,TRUE,77.7,0,B,6,LKA,228.4,-3,B,6,B+,0,0.3,25.7
+Thailand,Emerging Market,ASIA,ASIA,103,,2020,23.2,-2.5,,47.6,0,BB,5,THA,120.2,0.7,BB,3,A-,-1.8,-1.5,29.9
+Turkey,Emerging Market,EUROPE,EASTERN EUROPE,214,262.3749,2020,35.4,-2.1,TRUE,32.8,27.3,BB,5,TUR,347,-5,BB,4,BBB,-1.7,0.1,12.9
+Ukraine,Emerging Market,CW of independent states,RCIS,3855,1724.645,2020,40.3,-1.2,,71,70.1,CCC,7,UKR,0,-2.3,CCC,6,B-,-2.2,3.1,14.7
+United arab emirates,Emerging Market,NEAR EAST,Middle East,,,2020,29.3,6.9,,16.5,0,AA,2,ARE,297.3,6.6,AA,0,0,0,4.6,32.8
+Uruguay,Emerging Market,LATIN AMERICA & CARIB,Southern Cone,144,144,2020,29.6,-2.3,TRUE,68.3,30.6,BB,5,URY,201.9,-3.6,BB,4,BBB-,-3.1,0.2,16.1
+Venezuela,Emerging Market,LATIN AMERICA & CARIB,CANSAC,4116,3580.845,2020,18.2,-13.7,TRUE,21.8,0,CCC,7,VEN,0,1.4,CCC,7,CCC+,0,-10.4,14
+Argentina,Developing Countries,LATIN AMERICA & CARIB,,5393,5275.166,2015,35.7,,TRUE,49.5,0,AAA,1,ARG,125.2,-1.7,Aaa,1,AAA,-4.1,-1.7,15.8
+Armenia,Developing Countries,EUROPE,,424,445,2015,24,,TRUE,53.1,0,Ba3,5,ARM,288.1,-8.6,,,,0,,15
+Belize,Developing Countries,LATIN AMERICA & CARIB,,735,735,2015,27.6,,TRUE,75.7,75.7,Caa2,7,BLZ,134.7,-4.5,,,,0,,11.3
+Costa rica,Developing Countries,LATIN AMERICA & CARIB,,322,325,2015,13.8,,TRUE,42.4,42.4,Ba1,5,CRI,174.2,-3.6,,,,0,,13.6
+Serbia,Developing Countries,EUROPE,,264,,2015,38.7,,TRUE,76.4,72.8,B1,6,SRB,184.2,-4.7,,,,-4.1,,13.6
+Gabon,Developing Countries,AFRICA,,449,449,2015,23,,TRUE,33.7,0,NR,0,GAB,126.1,-2.3,,,,0,,28.6
+Georgia,Developing Countries,EUROPE,,300,,2015,27.8,,TRUE,42.4,0,Ba3,5,GEO,276.1,-11.5,,,,-2.1,,14.6
+Guatemala,Developing Countries,LATIN AMERICA & CARIB,,227,227,2015,11.1,,TRUE,24.6,0,Ba1,5,GTM,120.2,-1.6,,,,0,,12.4
+Iraq,Developing Countries,MIDDLE EAST,,650,650,2015,40.9,,TRUE,55.6,0,NR,0,IRQ,150.3,-9.6,,,,0,,14.8
+Jamaica,Developing Countries,LATIN AMERICA & CARIB,,270,372,2015,27.1,,TRUE,132.8,0,Caa3,7,JAM,432.9,-5,,,,0,,12.6
+Lebanon,Developing Countries,MIDDLE EAST,,357,371,2015,19.6,,TRUE,131.8,123.8,B2,6,LBN,135.1,-22.2,,,,0,,-0.8
+Lithuania,Developing Countries,EUROPE,,80,,2015,32.7,,TRUE,38.1,17.2,Baa1,4,LTU,139.7,0.2,,,,-1.3,,19.6
+Namibia,Developing Countries,AFRICA,,188,,2015,33.3,,TRUE,26.3,22.5,Baa3,4,NAM,114.1,-9.9,,,,0,,20
+Paraguay,Developing Countries,LATIN AMERICA & CARIB,,209,209,2015,24.3,,TRUE,22.8,0,Ba1,5,PRY,141.6,-1.7,,,,-1.2,,14.6
+El salvador,Developing Countries,LATIN AMERICA & CARIB,,348,411,2015,18,,TRUE,59.1,0,Ba3,5,SLV,109.3,-4.3,,,,0,,10.3
+Tunisia,Developing Countries,AFRICA,,311,311,2015,23.6,,TRUE,53.8,0,Ba3,5,TUN,126.8,-6.4,,,,-2.8,,12.1
+Trinidad and tobago,Developing Countries,LATIN AMERICA & CARIB,,371,111,2015,29.8,,TRUE,39.5,15.2,Baa1,4,TTO,273.3,5.2,,,,0,,19
+Argentina,Developing Countries,LATIN AMERICA & CARIB,,5393,5275.166,2020,34.7,,TRUE,55.9,0,AAA,1,ARG,331.9,-1.5,Aaa,1,AAA,-4.9,-1.7,15.2
+Armenia,Developing Countries,EUROPE,,424,445,2020,25.8,,TRUE,62,0,Ba3,5,ARM,350.5,-7.3,,,,0,,17.7
+Belize,Developing Countries,LATIN AMERICA & CARIB,,735,735,2020,25.4,,TRUE,88.3,88.3,Caa2,7,BLZ,149.1,-7,,,,0,,8.9
+Costa rica,Developing Countries,LATIN AMERICA & CARIB,,322,325,2020,15,,TRUE,52.6,52.6,Ba1,5,CRI,211.9,-4.9,,,,0,,14.7
+Serbia,Developing Countries,EUROPE,,264,,2020,36.6,,TRUE,72.2,69.1,B1,6,SRB,224.1,-3.7,,,,-2.7,,16.7
+Gabon,Developing Countries,AFRICA,,449,449,2020,25,,TRUE,31.7,0,NR,0,GAB,142.7,-2.7,,,,0,,33.2
+Georgia,Developing Countries,EUROPE,,300,,2020,27.2,,TRUE,35.8,0,Ba3,5,GEO,340.7,-6.6,,,,-2.3,,18.3
+Guatemala,Developing Countries,LATIN AMERICA & CARIB,,227,227,2020,11.6,,TRUE,26.6,0,Ba1,5,GTM,144.3,-2.5,,,,0,,12
+Iraq,Developing Countries,MIDDLE EAST,,650,650,2020,46.9,,TRUE,30.4,0,NR,0,IRQ,174.3,2.5,,,,0,,28.4
+Jamaica,Developing Countries,LATIN AMERICA & CARIB,,270,372,2020,25.5,,TRUE,95.5,0,Caa3,7,JAM,597.3,-3.4,,,,0,,11
+Lebanon,Developing Countries,MIDDLE EAST,,357,371,2020,20.9,,TRUE,143.5,137.4,B2,6,LBN,154,-15.3,,,,0,,7.5
+Lithuania,Developing Countries,EUROPE,,80,,2020,32.6,,TRUE,35.7,20.1,Baa1,4,LTU,156,-2.3,,,,-1.4,,14.8
+Namibia,Developing Countries,AFRICA,,188,,2020,32.9,,TRUE,32.8,32.8,Baa3,4,NAM,152.5,-10.7,,,,0,,11.1
+Paraguay,Developing Countries,LATIN AMERICA & CARIB,,209,209,2020,24.5,,TRUE,25.3,0,Ba1,5,PRY,176.5,-1.7,,,,-1.1,,15
+El salvador,Developing Countries,LATIN AMERICA & CARIB,,348,411,2020,18.4,,TRUE,69.9,0,Ba3,5,SLV,120.1,-5.9,,,,0,,9.1
+Tunisia,Developing Countries,AFRICA,,311,311,2020,24.8,,TRUE,53.6,0,Ba3,5,TUN,154.7,-3,,,,-2.3,,22
+Trinidad and tobago,Developing Countries,LATIN AMERICA & CARIB,,371,111,2020,29.6,,TRUE,60.3,37.7,Baa1,4,TTO,343.8,3.9,,,,0,,17.7
